@@ -1,0 +1,3 @@
+[10/Oct/2016:11:19:36 +0200] Failed to bind the socket, error #50.
+
+Probable reason is that another daemon is already running on the same port (8093).
